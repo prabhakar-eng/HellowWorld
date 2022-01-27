@@ -1,0 +1,6 @@
+C:\Users\310275454\OneDrive - Philips\jenkins\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\310275454\OneDrive - Philips\jenkins\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\310275454\OneDrive - Philips\jenkins\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\310275454\OneDrive - Philips\jenkins\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\310275454\OneDrive - Philips\jenkins\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\310275454\OneDrive - Philips\jenkins\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
